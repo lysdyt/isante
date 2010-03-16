@@ -1,3 +1,6 @@
+#labels Featured
+#Click here to see a list of websites associated with the iSante project
+
 ==General Websites ==
 
    * I-TECH - International Training & Education Center On HIV http://go2itech.org/
