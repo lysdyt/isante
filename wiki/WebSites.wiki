@@ -14,7 +14,7 @@
 ||Production||8.0 RC1||https://haiti.cirg.washington.edu/cphr/||
 ||Production/Consolidated/De-identified||8.0 RC1||https://haiti.cirg.washington.edu/site-consolide/||
 ||Production/Consolidated/Identified||8.0 RC1||https://isante-consolidated.cirg.washington.edu/isante||
-||Development (WISP)||7.0 RC2||https://cloud.cirg.washington.edu/isante7/||
-||Development (LAMP)||7.0 RC2||https://haiti-dev.cirg.washington.edu/isante7/||
-||Development (WISP)||8.0 RC1||https://cloud.cirg.washington.edu/isante/||
-||Development (LAMP)||8.0 RC1||https://haiti-dev.cirg.washington.edu/isante/||
+||Development (WISP)||8.0 RC1||https://cloud.cirg.washington.edu/isante8rc1/||
+||Development (LAMP)||8.0 RC1||https://haiti-dev.cirg.washington.edu/isante8rc1/||
+||Development (WISP)||8.0 RC2||https://cloud.cirg.washington.edu/isante/||
+||Development (LAMP)||8.0 RC2||https://haiti-dev.cirg.washington.edu/isante/||
