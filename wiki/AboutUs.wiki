@@ -1,5 +1,5 @@
 #labels Featured
-# Brief information about CIRG (Clinical Informatics Research Group)
+#Brief information about CIRG (Clinical Informatics Research Group)
 
 == Who are we? ==
 
