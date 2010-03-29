@@ -19,6 +19,3 @@ Currently CIRG works in a variety of domestic and foreign locales:
   * United States (need more)
   * Namibia???
   * Vietnam???
-
-= Details =
-
