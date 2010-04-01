@@ -1,5 +1,5 @@
 #summary Brief information about CIRG (Clinical Informatics Research Group)
-#labels Featured
+#labels Featured,Phase-Requirements
 
 == Who are we? ==
 
