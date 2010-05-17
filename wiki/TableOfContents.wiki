@@ -2,9 +2,6 @@
 
   * [HowTo How To Articles]
     * [IssueTrackingHowTo Issue Tracking Guide]
-    * [ArticlesDom DOM manipulation]
-    * [ArticlesStyle CSS and style]
-    * [ArticlesTips Tips and tricks]
   * [BackgroundInfo Background Information]
     * [AboutUs About Us]
-    * [Websites iSante Demo and Dev sites]
+    * [WebSites iSante Demo and Dev sites]
