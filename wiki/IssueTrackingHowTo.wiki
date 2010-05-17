@@ -1,4 +1,5 @@
 #summary This provides some useful tips on how to report bugs efficiently
+#sidebar TableOfContents
 
 = Issue Tracking How To Guide =
 
