@@ -3,18 +3,18 @@
 
 ===Contents===
 
-[General_Tips]
+[WikiSyntax#Labels]
 [Labels]
 
 == General Tips ==
 
-== Labels ==
+==Labels==
 There are a group of boxes underneath the text box where you report the bug. These can be used to hel pprovide further structured information about the bug or feature enhancement to make it easier for the developers to categorize and address. Main labels are in the following categories:
 
-=== Browser ===
-  *Browser-FFX2 = the issue happened while I was using Firefox 2
-  *Browser-IE8 = the issue happened while I was using Internet Explorer 8
+===Browser===
+  * Browser-FFX2 = the issue happened while I was using Firefox 2
+  * Browser-IE8 = the issue happened while I was using Internet Explorer 8
 
-=== RedFlag ===
+===RedFlag===
 This label should be used if the bug being reported critically affects one of the following areas to the point where the application cannot be used correctly.
-  *RedFlag-Security = The issue poses a security risk to the user, or it can potentially expose patient identifiable information to outside users.
+  * RedFlag-Security = The issue poses a security risk to the user, or it can potentially expose patient identifiable information to outside users.
