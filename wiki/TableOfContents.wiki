@@ -1,4 +1,5 @@
 #summary Table of Contents for the iSante Wiki
+#labels Category-TOC
 
   * [HowTo How To Articles]
     * [IssueTrackingHowTo Issue Tracking Guide]
