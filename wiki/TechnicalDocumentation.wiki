@@ -1,3 +1,21 @@
 #summary COMING SOON
 
 populate from https://wiki.cirg.washington.edu/twiki/bin/view/Itech/WebHome#Technical_Documentation
+
+==Installing/Upgrading iSante==
+  * DeploymentOverView
+  * Currently Planned Deployments
+  * Clinic-level planning steps
+    * Overview Checklist (SitePreparationSteps)
+    * Detailed Checklist (InCountrySetupPlanTemplate)
+  * Building a Windows 2003-based server
+  * Server Software Prerequisites
+  * Firewall See https://wiki.cirg.washington.edu/itech/bin/view/Itech/ServerSoftware#Firewall
+  * AuthenticationSetupAndManagement
+    * LdapServerSetup
+    * LdapAccountManager
+    * LdapConfigLocations
+    * Cutom Auth filter
+    * SwitchingAuthentication
+    * LdapNotes
+    * Using replication to recover a database
