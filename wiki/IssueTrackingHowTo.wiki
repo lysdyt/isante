@@ -1,10 +1,10 @@
-#This provides some useful tips on how to report bugs efficiently
+#summary This provides some useful tips on how to report bugs efficiently
 = Issue Tracking How To Guide =
 
 ===Contents===
 
-[WikiSyntax#General]
-[WikiSyntax#Labels]
+[General_Tips]
+[Labels]
 
 == General Tips ==
 
