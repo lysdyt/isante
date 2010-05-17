@@ -1,10 +1,10 @@
 #summary This provides some useful tips on how to report bugs efficiently
+
 = Issue Tracking How To Guide =
 
 ===Contents===
 
-[WikiSyntax#Labels]
-[Labels]
+<wiki:toc max_depth="2" />
 
 == General Tips ==
 
