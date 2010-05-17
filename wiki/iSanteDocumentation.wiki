@@ -1,13 +1,14 @@
-#Documentation related to iSante
+#summary Brief Descriptions of the types of documentation we have for iSante
 
 = Introduction =
 
-Add your content here.
+The documentation we have for iSante can be found using the links below:
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+==[UserDocumentation User Guides]==
+This page contains all comprehensive end user guides for ease of use of the iSante application.
+==[TechnicalDocumentation Technical Documentation]==
+This page contains documentation on architecture, as well as installation and upgrade of iSante
+==[RequirementsDocumentation Requirements Documentation]==
+This contains documents that describe the evolution of requirements and development within iSante
+==[MarketingDocumentation Marketing Documentation]==
+Brochures, Posters, etc. used to promote iSante
