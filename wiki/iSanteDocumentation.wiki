@@ -1,4 +1,5 @@
 #summary Brief Descriptions of the types of documentation we have for iSante
+#labels Category-Documentation
 
 The documentation we have for iSante can be found using the links below:
 
