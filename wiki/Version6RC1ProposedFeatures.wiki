@@ -9,14 +9,14 @@ Add your content here.
 
    * New UI 
     ** Changed navigation and menu structure 
-Revised patient search, with a quick search in the top menu 
-Patient header 
-Selected patient tabs 
-Coversheet - (mimics a subset of data in the clinical summary: vitals, recent visits, etc.) 
-Lab, diagnosis, and medication history grid displays 
-Graphs for cd4/weight in the coversheet 
-Revised computation of ARV eligibility, date and type 
-Immediate feedback (client-side) validation. 
+    ** Revised patient search, with a quick search in the top menu 
+    ** Patient header 
+    ** Selected patient tabs 
+    ** Coversheet - (mimics a subset of data in the clinical summary: vitals, recent visits, etc.) 
+       *** Lab, diagnosis, and medication history grid displays 
+       *** Graphs for cd4/weight in the coversheet 
+       *** Revised computation of ARV eligibility, date and type 
+    ** Immediate feedback (client-side) validation. 
 Registry 
 ARV 
 Pre-ARV 
