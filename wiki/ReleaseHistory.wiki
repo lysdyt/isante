@@ -5,3 +5,11 @@ populate this from https://wiki.cirg.washington.edu/twiki/bin/view/Itech/WebHome
 ==Version 8.0 RC2 (prototype; tentative release numbering):==
     * Development (Windows): https://cloud.cirg.washington.edu/isante/ 
     * Development (Linux): https://haiti-dev.cirg.washington.edu/isante/ 
+
+==Version 8.0 RC1:==
+    * Public Demo (Windows): https://isante-demo.cirg.washington.edu/isante/ 
+    * Production: https://haiti.cirg.washington.edu/cphr/ 
+    * Production (consolidated/de-identified): https://haiti.cirg.washington.edu/site-consolide/ 
+    * Production (consolidated/identified): https://isante-consolidated.cirg.washington.edu/isante/ 
+    * Test version (Windows): https://cloud.cirg.washington.edu/isante8rc1/ 
+    * Test version (Linux): https://haiti-dev.cirg.washington.edu/isante8rc1/ 
