@@ -18,4 +18,4 @@ populate this from https://wiki.cirg.washington.edu/twiki/bin/view/Itech/WebHome
     * Test version (Windows): https://cloud.cirg.washington.edu/isante7/ 
     * Test version (Linux): https://haiti-dev.cirg.washington.edu/isante7/ 
     * Change document in English : http://code.google.com/p/isante/downloads/detail?name=ChangeDocument7en.pdf&can=2&q=#makechanges
-    * [ChangeDocument7fr.pdf Change document in French]
+    * Change document in French : http://code.google.com/p/isante/downloads/detail?name=ChangeDocument7fr.pdf&can=2&q=#makechanges
