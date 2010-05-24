@@ -14,8 +14,8 @@ Add your content here.
     ** Selected patient tabs 
     ** Coversheet - (mimics a subset of data in the clinical summary: vitals, recent visits, etc.) 
        ** Lab, diagnosis, and medication history grid displays 
-       *** Graphs for cd4/weight in the coversheet 
-       *** Revised computation of ARV eligibility, date and type 
+       ** Graphs for cd4/weight in the coversheet 
+       ** Revised computation of ARV eligibility, date and type 
     ** Immediate feedback (client-side) validation. 
 Registry 
 ARV 
