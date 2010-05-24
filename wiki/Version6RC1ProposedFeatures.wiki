@@ -13,7 +13,7 @@ Add your content here.
     ** Patient header 
     ** Selected patient tabs 
     ** Coversheet - (mimics a subset of data in the clinical summary: vitals, recent visits, etc.) 
-       *** Lab, diagnosis, and medication history grid displays 
+       ** Lab, diagnosis, and medication history grid displays 
        *** Graphs for cd4/weight in the coversheet 
        *** Revised computation of ARV eligibility, date and type 
     ** Immediate feedback (client-side) validation. 
