@@ -1,3 +1,7 @@
 #summary COMING SOON
 
 populate this from https://wiki.cirg.washington.edu/twiki/bin/view/Itech/WebHome#Release_URLs_and_Notes_by_Versio
+
+==Version 8.0 RC2 (prototype; tentative release numbering):==
+    * Development (Windows): https://cloud.cirg.washington.edu/isante/ 
+    * Development (Linux): https://haiti-dev.cirg.washington.edu/isante/ 
