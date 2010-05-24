@@ -24,3 +24,5 @@ populate this from https://wiki.cirg.washington.edu/twiki/bin/view/Itech/WebHome
     * [Version6RC1ProposedFeatures Version 6 Proposed Features] 
     * Version6EmailAnnouncement 
     * Version6InstallInstructions 
+    * Reports Installer documents and .war file : http://code.google.com/p/isante/downloads/detail?name=ITECH_Reports_Installer_60rc5.zip&can=2&q=#makechanges
+    * Source code (zip file) for 6.0 RC6 : http://code.google.com/p/isante/downloads/detail?name=60rc6.zip&can=2&q=#makechanges
