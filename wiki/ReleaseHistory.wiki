@@ -13,3 +13,9 @@ populate this from https://wiki.cirg.washington.edu/twiki/bin/view/Itech/WebHome
     * Production (consolidated/identified): https://isante-consolidated.cirg.washington.edu/isante/ 
     * Test version (Windows): https://cloud.cirg.washington.edu/isante8rc1/ 
     * Test version (Linux): https://haiti-dev.cirg.washington.edu/isante8rc1/ 
+
+==Version 7.0 RC2:==
+    * Test version (Windows): https://cloud.cirg.washington.edu/isante7/ 
+    * Test version (Linux): https://haiti-dev.cirg.washington.edu/isante7/ 
+    * [ChangeDocument7en.pdf Change document in English]
+    * [ChangeDocument7fr.pdf Change document in French]
