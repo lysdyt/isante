@@ -27,6 +27,6 @@
 ==Drug Codes Dictionary== 
 ==LOINC Dictionary for Lab Tests==
 ==Database Mapping Files==
-  * Lab Lookup spread-sheet : http://code.google.com/p/isante/downloads/detail?name=lablookup.xls&can=2&q=#makechanges
-  * Encounter Type Lookup spread-sheet : http://code.google.com/p/isante/downloads/detail?name=enctypelookup.xls&can=2&q=#makechanges
-  * Drug Lookup Dictionary : http://code.google.com/p/isante/downloads/detail?name=druglookup.xls&can=2&q=#makechanges
+  * [http://code.google.com/p/isante/downloads/detail?name=lablookup.xls&can=2&q=#makechanges Lab Lookup spread-sheet] 
+  * [http://code.google.com/p/isante/downloads/detail?name=enctypelookup.xls&can=2&q=#makechanges Encounter Type Lookup spread-sheet]
+  * [http://code.google.com/p/isante/downloads/detail?name=druglookup.xls&can=2&q=#makechanges Drug Lookup Dictionary]
