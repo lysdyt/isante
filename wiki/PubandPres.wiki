@@ -14,8 +14,8 @@ https://wiki.cirg.washington.edu/twiki/bin/view/Itech/PublicationsAndArticles
 
   * [http://code.google.com/p/isante/downloads/detail?name=Itech_Forms_Overview.doc&can=2&q=#makechanges Jim on the Haiti forms code] 
   * [http://code.google.com/p/isante/downloads/detail?name=haitiOverview.ppt&can=2&q=#makechanges Steve on Haiti - Structure/Organisation/Priorities] 
-  * Steve on Haiti reporting module reportModule.ppt 
-  * Eric on Haiti replication ReplicationPresentation.doc 
+  * [http://code.google.com/p/isante/downloads/detail?name=reportModule.ppt&can=2&q=#makechanges Steve on Haiti reporting module] 
+  * [http://code.google.com/p/isante/downloads/detail?name=ReplicationPresentation.doc&can=2&q=#makechanges Eric on Haiti replication] 
   * Christina on Integration of WHO Register data registry_August_2_2007.ppt 
   * Jun on WAMP WAMP.ppt 
   * Claire on NASTAD Data Reporting NASTAD.ppt 
