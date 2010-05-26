@@ -1,7 +1,5 @@
-#summary COMING SOON
+#summary Technical Documents related to EMR
 #labels Category-Documentation
-
-populate from https://wiki.cirg.washington.edu/twiki/bin/view/Itech/WebHome#Technical_Documentation
 
 ==Installing/Upgrading iSante==
   * DeploymentOverView
