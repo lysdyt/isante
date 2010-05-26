@@ -10,3 +10,12 @@ https://wiki.cirg.washington.edu/twiki/bin/view/Itech/PublicationsAndArticles
 
 ==Presentations==
 ====Presentations by the development team on EMR system modules====
+
+  * Jim on the Haiti forms code Itech_Forms_Overview.doc 
+  * Steve on Haiti structure/organization/priorities haitiOverview.ppt 
+  * Steve on Haiti reporting module reportModule.ppt 
+  * Eric on Haiti replication ReplicationPresentation.doc 
+  * Christina on Integration of WHO Register data registry_August_2_2007.ppt 
+  * Jun on WAMP WAMP.ppt 
+  * Claire on NASTAD Data Reporting NASTAD.ppt 
+  * Steve on Concept Schema ConceptSchema.ppt 
