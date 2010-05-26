@@ -11,7 +11,7 @@ https://wiki.cirg.washington.edu/twiki/bin/view/Itech/PublicationsAndArticles
 ==Presentations==
 ====Presentations by the development team on EMR system modules====
 
-  * Jim on the Haiti forms code Itech_Forms_Overview.doc 
+  * [Itech_Forms_Overview.doc Jim on the Haiti forms code] 
   * Steve on Haiti structure/organization/priorities haitiOverview.ppt 
   * Steve on Haiti reporting module reportModule.ppt 
   * Eric on Haiti replication ReplicationPresentation.doc 
