@@ -4,7 +4,7 @@ https://wiki.cirg.washington.edu/twiki/bin/view/Itech/PublicationsAndArticles
 
 ==Papers==
 
-  * Winter 2008 I-TECH Newsletter article : http://code.google.com/p/isante/downloads/detail?name=2008-01_ITECH_UPDATE15.pdf&can=2&q=#makechanges
+  * [http://code.google.com/p/isante/downloads/detail?name=2008-01_ITECH_UPDATE15.pdf&can=2&q=#makechanges Winter 2008 I-TECH Newsletter article] 
 
 ==Articles==
 
@@ -12,7 +12,7 @@ https://wiki.cirg.washington.edu/twiki/bin/view/Itech/PublicationsAndArticles
 ====Presentations by the development team on EMR system modules====
 
   * [http://code.google.com/p/isante/downloads/detail?name=Itech_Forms_Overview.doc&can=2&q=#makechanges Jim on the Haiti forms code] 
-  * Steve on Haiti structure/organization/priorities haitiOverview.ppt 
+  * [http://code.google.com/p/isante/downloads/detail?name=haitiOverview.ppt&can=2&q=#makechanges Steve on Haiti - Structure/Organisation/Priorities] 
   * Steve on Haiti reporting module reportModule.ppt 
   * Eric on Haiti replication ReplicationPresentation.doc 
   * Christina on Integration of WHO Register data registry_August_2_2007.ppt 
