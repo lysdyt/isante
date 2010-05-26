@@ -17,8 +17,8 @@ populate this from https://wiki.cirg.washington.edu/twiki/bin/view/Itech/WebHome
 ==Version 7.0 RC2:==
     * Test version (Windows): https://cloud.cirg.washington.edu/isante7/ 
     * Test version (Linux): https://haiti-dev.cirg.washington.edu/isante7/ 
-    * Change document in English : http://code.google.com/p/isante/downloads/detail?name=ChangeDocument7en.pdf&can=2&q=#makechanges
-    * Change document in French : http://code.google.com/p/isante/downloads/detail?name=ChangeDocument7fr.pdf&can=2&q=#makechanges
+    * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocument7en.pdf&can=2&q=#makechanges Change document in English]
+    * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocument7fr.pdf&can=2&q=#makechanges Change document in French] 
 
 ==Version 6.0==
     * [Version6RC1ProposedFeatures Version 6 RC1 Proposed Features] 
