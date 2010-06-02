@@ -1,7 +1,7 @@
 #summary Release history of EMR from Version 6.0 onwards
 
 populate this from https://wiki.cirg.washington.edu/twiki/bin/view/Itech/WebHome#Release_URLs_and_Notes_by_Versio
-==iSanté Patient Search Mobile Application (Android)==
+==iSanté Patient Search Mobile Application (Android):==
     * The latest release of the iSanté Patient Search Mobile Application for Android devices : http://isante.cirg.washington.edu/PatientSearch.apk
     * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android.pdf&can=2&q=#makechanges User Guide]
 ==Version 8.0 RC2:==
@@ -24,7 +24,7 @@ populate this from https://wiki.cirg.washington.edu/twiki/bin/view/Itech/WebHome
     * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocument7en.pdf&can=2&q=#makechanges Change document in English]
     * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocument7fr.pdf&can=2&q=#makechanges Change document in French] 
 
-==Version 6.0==
+==Version 6.0:==
     * [Version6RC1ProposedFeatures Version 6 RC1 Proposed Features] 
     * [Version6RC3ProposedFeatures Version 6 RC3 Proposed Features]
     * [http://code.google.com/p/isante/downloads/detail?name=ITECH_Reports_Installer_60rc5.zip&can=2&q=#makechanges Reports Installer documents and .war file] 
