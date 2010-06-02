@@ -29,6 +29,8 @@ populate this from https://wiki.cirg.washington.edu/twiki/bin/view/Itech/WebHome
     * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocument7fr.pdf&can=2&q=#makechanges Change document in French] 
 
 ==Version 6.0:==
+    * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocumenten.pdf&can=2&q=#makechanges Change document in English]
+    * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocumentfr.pdf&can=2&q=#makechanges Change document in French] 
     * [Version6RC1ProposedFeatures Version 6 RC1 Proposed Features] 
     * [Version6RC3ProposedFeatures Version 6 RC3 Proposed Features]
     * [http://code.google.com/p/isante/downloads/detail?name=ITECH_Reports_Installer_60rc5.zip&can=2&q=#makechanges Reports Installer documents and .war file] 
