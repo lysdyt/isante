@@ -1,13 +1,19 @@
 #summary Release history of EMR from Version 6.0 onwards
 
-populate this from https://wiki.cirg.washington.edu/twiki/bin/view/Itech/WebHome#Release_URLs_and_Notes_by_Versio
 ==iSanté Patient Search Mobile Application (Android):==
     * The latest release of the iSanté Patient Search Mobile Application for Android devices : http://isante.cirg.washington.edu/PatientSearch.apk
     * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android.pdf&can=2&q=#makechanges User Guide in English]
 
+==Version 9.0 RC1:==
+    * Development/Testing (Windows): https://cloud.cirg.washington.edu/isante/ 
+    * Development/Testing (Linux): https://haiti-dev.cirg.washington.edu/isante/
+
 ==Version 8.0 RC2:==
-    * Development (Windows): https://cloud.cirg.washington.edu/isante/ 
-    * Development (Linux): https://haiti-dev.cirg.washington.edu/isante/
+    * Production: https://haiti.cirg.washington.edu/cphr/ 
+    * Production (consolidated/de-identified): https://haiti.cirg.washington.edu/site-consolide/ 
+    * Production (consolidated/identified): https://isante-consolidated.cirg.washington.edu/isante/
+    * Test version (Windows): https://cloud.cirg.washington.edu/isante8rc2/ 
+    * Test version (Linux): https://haiti-dev.cirg.washington.edu/isante8rc2/
     * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocumentv8_final.docx&can=2&q=#makechanges Change document in English]
     * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocumentv8_final_French.docx&can=2&q=#makechanges Change document in French]
     * [http://code.google.com/p/isante/downloads/detail?name=recordsRequestUserGuide.docx&can=2&q=#makechanges Patient Transfer request User guide in English]
@@ -16,15 +22,10 @@ populate this from https://wiki.cirg.washington.edu/twiki/bin/view/Itech/WebHome
 
 ==Version 8.0 RC1:==
     * Public Demo (Windows): https://isante-demo.cirg.washington.edu/isante/ 
-    * Production: https://haiti.cirg.washington.edu/cphr/ 
-    * Production (consolidated/de-identified): https://haiti.cirg.washington.edu/site-consolide/ 
-    * Production (consolidated/identified): https://isante-consolidated.cirg.washington.edu/isante/ 
     * Test version (Windows): https://cloud.cirg.washington.edu/isante8rc1/ 
     * Test version (Linux): https://haiti-dev.cirg.washington.edu/isante8rc1/ 
 
 ==Version 7.0 RC2:==
-    * Test version (Windows): https://cloud.cirg.washington.edu/isante7/ 
-    * Test version (Linux): https://haiti-dev.cirg.washington.edu/isante7/ 
     * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocument7en.pdf&can=2&q=#makechanges Change document in English]
     * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocument7fr.pdf&can=2&q=#makechanges Change document in French] 
 
