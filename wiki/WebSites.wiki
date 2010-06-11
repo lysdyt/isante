@@ -9,6 +9,10 @@
 == iSante installations at UW: ==
 
 ||*Type*||*Version*||*URL*||
+||Development (WISP)||9.0 RC1||https://cloud.cirg.washington.edu/isante/||
+||Development (LAMP)||9.0 RC1||https://haiti-dev.cirg.washington.edu/isante/||
+||Development (WISP)||8.0 RC2||https://cloud.cirg.washington.edu/isante8rc2/||
+||Development (LAMP)||8.0 RC2||https://haiti-dev.cirg.washington.edu/isante8rc2/||
 ||Post Earthquake Map||8.0 RC2||https://sodium.cirg.washington.edu/map||
 ||Public Demo||8.0 RC2||https://isante-demo.cirg.washington.edu/isante||
 ||Production||8.0 RC2||https://haiti.cirg.washington.edu/cphr/||
@@ -16,5 +20,3 @@
 ||Production/Consolidated/Identified||8.0 RC2||https://isante-consolidated.cirg.washington.edu/isante||
 ||Development (WISP)||8.0 RC1||https://cloud.cirg.washington.edu/isante8rc1/||
 ||Development (LAMP)||8.0 RC1||https://haiti-dev.cirg.washington.edu/isante8rc1/||
-||Development (WISP)||9.0 RC1||https://cloud.cirg.washington.edu/isante/||
-||Development (LAMP)||9.0 RC1||https://haiti-dev.cirg.washington.edu/isante/||
