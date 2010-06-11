@@ -14,7 +14,7 @@
 ||Development (WISP)||8.0 RC2||https://cloud.cirg.washington.edu/isante8rc2/||
 ||Development (LAMP)||8.0 RC2||https://haiti-dev.cirg.washington.edu/isante8rc2/||
 ||Post Earthquake Map||8.0 RC2||https://sodium.cirg.washington.edu/map||
-||Public Demo||8.0 RC2||https://isante-demo.cirg.washington.edu/isante||
+||Public Demo Username - demo, Password - demo||8.0 RC2||https://isante-demo.cirg.washington.edu/isante||
 ||Production||8.0 RC2||https://haiti.cirg.washington.edu/cphr/||
 ||Production/Consolidated/De-identified||8.0 RC2||https://haiti.cirg.washington.edu/site-consolide/||
 ||Production/Consolidated/Identified||8.0 RC2||https://isante-consolidated.cirg.washington.edu/isante||
