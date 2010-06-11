@@ -3,6 +3,7 @@
 ==iSanté Patient Search Mobile Application (Android):==
     * The latest release of the iSanté Patient Search Mobile Application for Android devices : http://isante.cirg.washington.edu/PatientSearch.apk
     * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android.pdf&can=2&q=#makechanges User Guide in English]
+    * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android_Userguide_Fr.docx&can=2&q=#makechanges User Guide in French]
 
 ==Version 9.0 RC1:==
     * Development/Testing (Windows): https://cloud.cirg.washington.edu/isante/ 
