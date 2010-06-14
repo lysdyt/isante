@@ -4,7 +4,7 @@
 
 ||*Name*||*Sites*||*IM Account*||*Email*||*Phone*||*Skype*||
 ||Nancy Puttkammer||Seattle|| ||nputt@u.washington.edu||206-616-5139 || ||
-||Development (LAMP)||9.0 RC1||https://haiti-dev.cirg.washington.edu/isante/||
+||Mary Tegger||Seattle|| ||tegger@u.washington.edu||206-617-4057|| || 
 ||Development (WISP)||8.0 RC2||https://cloud.cirg.washington.edu/isante8rc2/||
 ||Development (LAMP)||8.0 RC2||https://haiti-dev.cirg.washington.edu/isante8rc2/||
 ||Post Earthquake Map||8.0 RC2||https://sodium.cirg.washington.edu/map||
