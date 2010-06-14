@@ -3,7 +3,7 @@
 ==iTech Contacts:==
 
 ||*Name*||*Sites*||*IM Account*||*Email*||*Phone*||*Skype*||
-||Nancy Puttkammer||Seattle||||nputt@u.washington.edu||206-616-5139 ||||
+||Nancy Puttkammer||Seattle|| ||nputt@u.washington.edu||206-616-5139 || ||
 ||Development (LAMP)||9.0 RC1||https://haiti-dev.cirg.washington.edu/isante/||
 ||Development (WISP)||8.0 RC2||https://cloud.cirg.washington.edu/isante8rc2/||
 ||Development (LAMP)||8.0 RC2||https://haiti-dev.cirg.washington.edu/isante8rc2/||
