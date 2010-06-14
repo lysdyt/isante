@@ -1,2 +1,11 @@
-
 =Application Contact Information= 
+
+==iTech Contacts:==
+
+||*Name*||*Sites*||*IM Account*||*Email*||*Phone*||*Skype*||
+||Nancy Puttkammer||Seattle||||nputt@u.washington.edu||206-616-5139 ||||
+||Development (LAMP)||9.0 RC1||https://haiti-dev.cirg.washington.edu/isante/||
+||Development (WISP)||8.0 RC2||https://cloud.cirg.washington.edu/isante8rc2/||
+||Development (LAMP)||8.0 RC2||https://haiti-dev.cirg.washington.edu/isante8rc2/||
+||Post Earthquake Map||8.0 RC2||https://sodium.cirg.washington.edu/map||
+||Public Demo (Username - demo, Password - demo)||8.0 RC2||https://isante-demo.cirg.washington.edu/isante||
