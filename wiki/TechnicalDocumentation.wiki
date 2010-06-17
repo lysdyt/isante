@@ -22,6 +22,9 @@
 ==Data Dictionary==
   * [http://code.google.com/p/isante/downloads/detail?name=lablookup.xls#makechanges Lab Lookup]
 ==Test Cases==
+  * [http://code.google.com/p/isante/downloads/detail?name=Test%20Plan%20for%20Haiti%20EMR.docx&can=2&q=#makechanges iSante Test Plan] 
+  * [http://code.google.com/p/isante/downloads/detail?name=testingprocess%20ver6.0.txt&can=2&q=#makechanges Test cases for version 6.0]
+
 ==Concept Dictionary==
 ==Data Dictionary==
 ==Drug Codes Dictionary== 
