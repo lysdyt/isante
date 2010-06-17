@@ -1,8 +1,9 @@
 #summary iSante Training Materials
+#labels Phase-Implementation
 
 = iSante Training =
 
 The site contains the materials used for training the staff and RIO's at Haiti.
 
-    * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android.pdf&can=2&q=#makechanges User Guide in English]
-    * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android_Userguide_Fr.docx&can=2&q=#makechanges User Guide in French]
+    * [http://code.google.com/p/isante/downloads/detail?name=ServerAdminManual_4.10.docx&can=2&q=#makechanges Server Administration Manual in English]
+    * [Server Administration Manual in French]
