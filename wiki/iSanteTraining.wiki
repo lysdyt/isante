@@ -1,13 +1,8 @@
 #summary iSante Training Materials
 
-= Introduction =
+= iSante Training =
 
-Add your content here.
+The site contains the materials used for training the staff and RIO's at Haiti.
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+    * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android.pdf&can=2&q=#makechanges User Guide in English]
+    * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android_Userguide_Fr.docx&can=2&q=#makechanges User Guide in French]
