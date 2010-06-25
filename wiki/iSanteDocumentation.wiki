@@ -1,13 +1,13 @@
-#summary Brief Descriptions of the types of documentation we have for iSante
+#summary Brief Descriptions of the types of documentation we have for iSanté
 #labels Category-Documentation
 
-The documentation we have for iSante can be found using the links below:
+The documentation we have for iSanté can be found using the links below:
 
 ==[UserDocumentation User Guides]== 
-  This page contains all comprehensive end user guides for ease of use of the iSante application.
+  This page contains all comprehensive end user guides for ease of use of the iSanté application.
 ==[TechnicalDocumentation Technical Documentation]==
-  This page contains documentation on architecture, as well as installation and upgrade of iSante
+  This page contains documentation on architecture, as well as installation and upgrade of iSanté
 ==[RequirementsDocumentation Requirements Documentation]==
-  This contains documents that describe the evolution of requirements and development within iSante
+  This contains documents that describe the evolution of requirements and development within iSanté
 ==[MarketingDocumentation Marketing Documentation]==
-  Brochures, Posters, etc. used to promote iSante
+  Brochures, Posters, etc. used to promote iSanté
