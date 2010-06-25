@@ -3,7 +3,7 @@
 
 == Who are we? ==
 
-iSante is on of the many projects that is run by the Clinical Informatics Research Group (CIRG) a research group centrally located at the University of Washington. We are involved in research projects focused in the following areas:
+iSanté is on of the many projects that is run by the Clinical Informatics Research Group (CIRG) a research group centrally located at the University of Washington. We are involved in research projects focused in the following areas:
   * E-health Architecture
   * Clinical systems implementation, management, and development
   * Health Reporting Architectures
@@ -17,5 +17,5 @@ Currently CIRG works in a variety of domestic and foreign locales:
   * Kenya
   * Cote d'Ivoire
   * United States (need more)
-  * Namibia???
+  * Namibia
   * Vietnam???
