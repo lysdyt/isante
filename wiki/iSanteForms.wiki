@@ -1,12 +1,12 @@
 #summary iSante Adult and Pediatric Forms (French)
 
-==Adult Forms==
+==Adult Forms (French)==
     * [http://code.google.com/p/isante/downloads/detail?name=adult-intake_french0610.pdf&can=2&q=#makechanges Adult Intake form]
     * [http://code.google.com/p/isante/downloads/detail?name=adult-followup-french0610.pdf&can=2&q=#makechanges Adult Follow-up form]
     * [http://code.google.com/p/isante/downloads/detail?name=adult-rx-french0610.pdf&can=2&q=#makechanges Adult Prescription form]
     * [http://code.google.com/p/isante/downloads/detail?name=adult-lab-french0610.pdf&can=2&q=#makechanges Adult Laboratory form]
 
-==Pediatric Forms==
+==Pediatric Forms (French)==
     * [http://code.google.com/p/isante/downloads/detail?name=ped-intake-french0610.pdf&can=2&q=#makechanges Pediatric Intake form]
     * [http://code.google.com/p/isante/downloads/detail?name=ped-followup-french0610.pdf&can=2&q=#makechanges Pediatric Follow-up form]
     * [http://code.google.com/p/isante/downloads/detail?name=ped-rx-french0610.pdf&can=2&q=#makechanges Pediatric Prescription form]
