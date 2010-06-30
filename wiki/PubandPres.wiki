@@ -4,7 +4,9 @@ https://wiki.cirg.washington.edu/twiki/bin/view/Itech/PublicationsAndArticles
 
 ==Papers==
 
-  * [http://code.google.com/p/isante/downloads/detail?name=2008-01_ITECH_UPDATE15.pdf&can=2&q=#makechanges Winter 2008 I-TECH Newsletter article] 
+  * [http://code.google.com/p/isante/downloads/detail?name=2008-01_ITECH_UPDATE15.pdf&can=2&q=#makechanges Winter 2008 I-TECH Newsletter article]
+  * [http://code.google.com/p/isante/downloads/detail?name=Lober%2C_Haiti_EMR%2C_AMIA_F2008_%28bl8%29%28cq2%29.doc&can=2&q=#makechanges Three Years Experience with the Implementation of a Networked Electronic Medical Record in Haiti]
+  * [http://code.google.com/p/isante/downloads/detail?name=EMR_paper.pdf&can=2&q=#makechanges Development and Implementation of a Loosely Coupled, Multi-Site, Networked and Replicated Electronic Medical Record in Haiti] 
 
 ==Articles==
 
