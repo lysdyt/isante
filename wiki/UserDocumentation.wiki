@@ -1,4 +1,5 @@
 #summary iSante User documentation
+#labels Category-Documentation
 
 ==iSanté Patient Search Mobile Application (Android):==
     * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android.pdf&can=2&q=#makechanges User Guide in English]
@@ -19,4 +20,9 @@
 ==Version 6.0:==
     * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocumenten.pdf&can=2&q=#makechanges Change document in English]
     * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocumentfr.pdf&can=2&q=#makechanges Change document in French] 
+
+==Others:==
+   * [http://code.google.com/p/isante/downloads/detail?name=report_definitions.pdf&can=2&q=#makechanges iSanté Report Definitions - English - Revision 128 - 02-Apr-2010]
+   * [http://code.google.com/p/isante/downloads/detail?name=Guidedutilisation-SystemeCollectedeDonnees.doc&can=2&q=#makechanges EMR User Guide (French)]
+   * [http://code.google.com/p/isante/downloads/detail?name=ServerAdminManual_4.10.docx&can=2&q=#makechanges iSante Server Administration Manual] 
         
