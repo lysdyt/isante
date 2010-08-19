@@ -4,16 +4,6 @@
 
 This is the page for modification/review and documentation of changes to the Adult Primary Care Intake Form
 
-
-= Elements =
-
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-
 = Form Overview =
-
-http://isante.cirg.washington.edu/images/ped-followup-french0610_Page_1.jpg
-http://isante.cirg.washington.edu/images/ped-followup-french0610_Page_2.jpg
 
 http://isante.cirg.washington.edu/images/VisitedesuiviAdulte8-10-10_Page_1.jpg
