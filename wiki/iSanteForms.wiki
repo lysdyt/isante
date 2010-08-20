@@ -4,7 +4,7 @@
 
 ==Adult Forms (French)==
 ===_Registration_===
-    * [AdultRegistration Fiche de Enregistrement (Adult Registration Form)]
+    * [AdultRegistration FICHE D’ENREGISTREMENT ADULTE (Adult Registration Form)]
 ===_Primary Care_===
     * [PrimaryIntakeForm Adult Primary Care Intake Form] 
     * [PrimaryFollowupForm FICHE DE SOINS DE SANTÉ ADULTE DE PREMIER NIVEAU : VISITE DE SUIVI (Adult Primary Care Follow-up Form)] 
@@ -15,7 +15,7 @@
 
 ==Pediatric Forms (French)==
 ===_Registration_===
-    * [PedRegistration Pediatric Registration Form] 
+    * [PedRegistration FICHE D’ENREGISTREMENT PEDIATRIQUE (Pediatric Registration Form)] 
 ===_Primary Care_===
     * [PedPrimaryIntakeForm Pediatric Primary Care Intake Form] 
     * [PedPrimaryFollowupForm Pediatric Primary Care Follow-up Form]
