@@ -1,9 +1,9 @@
-#summary Adult Registration Form
+#summary Adult Registration Form as of Aug 6, 2010
 
-= Overview =
+== Overview ==
 
 A pdf version of the form can be downloaded [http://code.google.com/p/isante/downloads/detail?name=Fiche%20enregistrement%20Adulte%208-6-10.pdf&can=2&q= here].
 
-= Form Image =
+== Form Image ==
 
 [http://isante.cirg.washington.edu/images/FicheEnregistrementAdulte-8-6-10.png]
