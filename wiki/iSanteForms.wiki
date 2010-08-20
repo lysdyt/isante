@@ -17,8 +17,8 @@
 ===_Registration_===
     * [PedRegistration FICHE D’ENREGISTREMENT PEDIATRIQUE (Pediatric Registration Form)] 
 ===_Primary Care_===
-    * [PedPrimaryIntakeForm Pediatric Primary Care Intake Form] 
-    * [PedPrimaryFollowupForm Pediatric Primary Care Follow-up Form]
+    * [PedPrimaryIntakeForm FICHE DE SOINS DE SANTÉ DE PREMIER NIVEAU: PREMIÈRE VISITE PÉDIATRIE (Pediatric Primary Care Intake Form)] 
+    * [PedPrimaryFollowupForm FICHE DE SOINS DE SANTÉ DE PREMIER NIVEAU: SUIVI PÉDIATRIE (Pediatric Primary Care Follow-up Form)]
 
 =Current Forms (displayed in iSante)=
 
