@@ -21,6 +21,7 @@
 
 ==Replication==
   * [http://code.google.com/p/isante/downloads/detail?name=ReplicationPresentation.doc&can=2&q=#makechanges General overview]
+  * [http://code.google.com/p/isante/downloads/detail?name=Replication%20Guide.docx&can=2&q=#makechanges Replication Guide]
 ==Test Cases==
   * [http://code.google.com/p/isante/downloads/detail?name=Test%20Plan%20for%20Haiti%20EMR.docx&can=2&q=#makechanges iSante Test Plan] 
   * [http://code.google.com/p/isante/downloads/detail?name=testingprocess%20ver6.0.txt&can=2&q=#makechanges Test cases for version 6.0]
