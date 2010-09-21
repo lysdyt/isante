@@ -1,5 +1,7 @@
 #summary Features and related documents
 
+==iSanté and OpenElis Haiti connection instructions and demo script==
+    * [
 ==iSanté Patient Search Mobile Application (Android):==
     * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android.pdf&can=2&q=#makechanges User Guide in English]
     * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android_Userguide_Fr.docx&can=2&q=#makechanges User Guide in French]
