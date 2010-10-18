@@ -2,6 +2,8 @@
 #labels Category-Documentation
 
 ==Installing/Upgrading iSante==
+  * [http://code.google.com/p/isante/downloads/detail?name=linux-README.txt&can=2&q=#makechanges Installation process for Linux]
+  * [http://code.google.com/p/isante/downloads/detail?name=windows-README.txt&can=2&q=#makechanges Installation process for Windows]
   * DeploymentOverView
   * Currently Planned Deployments
   * Clinic-level planning steps
