@@ -1,6 +1,8 @@
 #summary iSante User documentation
 #labels Category-Documentation
 
+==Configuring the Patient Search Service on a Linux Server==
+    * [http://code.google.com/p/isante/downloads/detail?name=PatientSearchService_Configuration_Instructions_80rc2.doc&can=2&q=#makechanges PatientSearchService_Configuration_Instructions_80rc2]
 ==iSanté Patient Search Mobile Application (Android):==
     * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android.pdf&can=2&q=#makechanges User Guide in English]
     * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android_Userguide_Fr.docx&can=2&q=#makechanges User Guide in French]
