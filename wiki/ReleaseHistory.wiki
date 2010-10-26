@@ -1,5 +1,7 @@
 #summary Release history of EMR from Version 6.0 onwards
 
+==Configuring the Patient Search Service on a Linux Server==
+    * [http://code.google.com/p/isante/downloads/detail?name=PatientSearchService_Configuration_Instructions_80rc2.doc&can=2&q=#makechanges PatientSearchService_Configuration_Instructions_80rc2]
 ==iSanté Patient Search Mobile Application (Android):==
     * The latest release of the iSanté Patient Search Mobile Application for Android devices : http://isante.cirg.washington.edu/PatientSearch.apk
     * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android.pdf&can=2&q=#makechanges User Guide in English]
