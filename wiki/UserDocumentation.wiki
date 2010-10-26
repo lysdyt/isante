@@ -1,7 +1,7 @@
 #summary iSante User documentation
 #labels Category-Documentation
 
-==Haiti OpenElis: Configuring to use the Patient Search Service==
+==Haiti OpenElis - Configuring to use the Patient Search Service==
     * [http://code.google.com/p/isante/downloads/detail?name=Haiti_OpenElis_PatientSearchService_Configuration_Instructions.doc&can=2&q=#makechanges Haiti_OpenElis_PatientSearchService_Configuration_Instructions]
 ==iSanté Patient Search Mobile Application (Android):==
     * [http://code.google.com/p/isante/downloads/detail?name=Patient_Search_Mobile_Android.pdf&can=2&q=#makechanges User Guide in English]
