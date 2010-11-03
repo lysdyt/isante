@@ -33,6 +33,8 @@
 * [http://code.google.com/p/isante/downloads/detail?name=lablookup.xls#makechanges Lab Lookup]
 ==Drug Codes Dictionary== 
 ==LOINC Dictionary for Lab Tests==
+==iSante Usability Report==
+  * [http://code.google.com/p/isante/downloads/detail?name=Final%20Usability%20Evaluation%20Report%20of%20Haiti%20EMR.doc&can=2&q=#makechanges Usability Report dated 28th April, 2009]
 ==Database Mapping Files==
   * [http://code.google.com/p/isante/downloads/detail?name=lablookup.xls&can=2&q=#makechanges Lab Lookup spread-sheet] 
   * [http://code.google.com/p/isante/downloads/detail?name=enctypelookup.xls&can=2&q=#makechanges Encounter Type Lookup spread-sheet]
