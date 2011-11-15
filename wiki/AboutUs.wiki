@@ -1,7 +1,7 @@
 #summary Brief information about CIRG (Clinical Informatics Research Group)
 #labels Featured,Phase-Requirements
 
-(We're not really keeping these pages up to date so well...  Go to Downloads for a better sense of current project activity!)
+<B>(We're not really keeping these pages up to date so well...  Go to Downloads for a better sense of current project activity!)</B>
 
 == Who are we? ==
 
