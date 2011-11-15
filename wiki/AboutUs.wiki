@@ -16,6 +16,6 @@ Currently CIRG works in a variety of domestic and foreign locales:
   * Mozambique
   * Kenya
   * Cote d'Ivoire
-  * United States (need more)
+  * United States
   * Namibia
   * Vietnam
