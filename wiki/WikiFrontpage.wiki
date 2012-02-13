@@ -1,5 +1,5 @@
 #labels Featured
-#entry point for the iSante wiki.
+# entry point for the iSante wiki.
 
 = Introduction =
 
