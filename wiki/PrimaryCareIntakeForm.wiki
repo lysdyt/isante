@@ -1,4 +1,5 @@
 #summary The design page for the primary care adult intake form
+#labels iSante-Forms
 
 = Introduction =
 
