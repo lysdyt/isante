@@ -1,4 +1,5 @@
 #summary Papers/Articles/Presentations related to Haiti EMR
+#labels Deprecated
 
 https://wiki.cirg.washington.edu/twiki/bin/view/Itech/PublicationsAndArticles
 
