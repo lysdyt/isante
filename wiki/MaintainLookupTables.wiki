@@ -3,7 +3,7 @@
 
 1. The structure of all iSanté tables, including the lookup tables, is maintained in script files (one per version) located in ~/support, i.e. 90rc3-updates.sql. If you make a change to the schema of any table, it must be reproducible in the version's corresponding *-updates.sql file.
 
- To add to your first point, in addition to putting schema changes in the {{{support/<version>updates-schema.sql}}} file, you also need to be sure to put them in 'support/mysqlSchema.sql' file so that they get applied to new installs also.
+ To add to your first point, in addition to putting schema changes in the `support/<version>updates-schema.sql` file, you also need to be sure to put them in `support/mysqlSchema.sql` file so that they get applied to new installs also.
 
  P.S. Changing the 'labGroup' values impacts at least the following files:
 
@@ -14,7 +14,7 @@ jrxml/mysql/clinsum_labs.jrxml
 
 2. The following tables are lookup tables (taken from line #335 of ~/replication/readSource.pl):
 
-@tables = ( 'announcements', 'clinicLookup', 'concept', 'concept_class', 'concept_datatype', 'concept_name', 'conditionLookup', 'conditionOrder', 'cohortAsort', 'discReasonLookup', 'drugGroupLookup', 'drugLookup', 'drugVersionOrder', 'encTypeLookup', 'immunizationLookup', 'immunizationRendering', 'isanteConcepts', 'isanteForms', 'labelLookup', 'labLookup', 'nastadLookup', 'networkLookup', 'patientStatusLookup', 'pedLabsLookup', 'pedLabsRendering', 'referralLookup', 'regimen', 'riskLookup', 'riskOrder', 'staticConcepts'
+{{{@tables = ( 'announcements', 'clinicLookup', 'concept', 'concept_class', 'concept_datatype', 'concept_name', 'conditionLookup', 'conditionOrder', 'cohortAsort', 'discReasonLookup', 'drugGroupLookup', 'drugLookup', 'drugVersionOrder', 'encTypeLookup', 'immunizationLookup', 'immunizationRendering', 'isanteConcepts', 'isanteForms', 'labelLookup', 'labLookup', 'nastadLookup', 'networkLookup', 'patientStatusLookup', 'pedLabsLookup', 'pedLabsRendering', 'referralLookup', 'regimen', 'riskLookup', 'riskOrder', 'staticConcepts')}}}
 
 3. The authoritative source for lookup table contents is sodium.itech. Do not make frivolous changes to the lookup tables there--you will be sorry if you do! 
 
@@ -22,4 +22,4 @@ jrxml/mysql/clinsum_labs.jrxml
 
 5. The script ~/replication/update-lookups.sh truncates all of the above lookup tables and loads them with its input gz file. 
 
-If in doubt about changing something in the lookup tables--see Steve Wagner, or have me do it for you. This applies in particular to the concept schema!!!!!
+If in doubt about changing something in the lookup tables--see Steve Wagner, or have him do it for you. This applies in particular to the concept schema!!!!!
