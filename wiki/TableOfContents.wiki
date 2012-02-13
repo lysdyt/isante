@@ -4,7 +4,7 @@
   * [WikiFrontpage Front page]
   * [HowTo How To Guides]
     * For Developers
-      * [ChangeDatabaseStructure How to change database structure?]
+      * [MaintainLookupTables How to maintain lookup tables?]
     * For end users
   * [BackgroundInfo Background Information]
     * [AboutUs About Us]
