@@ -1,4 +1,5 @@
 #summary Application Contact Information
+#labels Deprecated
 
 =Application Contact Information= 
 
