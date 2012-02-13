@@ -1,4 +1,5 @@
 #summary Adult Registration Form as of Aug 6, 2010
+#labels iSante-Forms
 
 == Overview ==
 
