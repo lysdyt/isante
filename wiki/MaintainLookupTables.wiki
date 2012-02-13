@@ -3,7 +3,7 @@
 
 1. The structure of all iSanté tables, including the lookup tables, is maintained in script files (one per version) located in ~/support, i.e. 90rc3-updates.sql. If you make a change to the schema of any table, it must be reproducible in the version's corresponding *-updates.sql file.
 
- To add to your first point, in addition to putting schema changes in the 'support/[version]updates-schema.sql' file, you also need to be sure to put them in 'support/mysqlSchema.sql' file so that they get applied to new installs also.
+ To add to your first point, in addition to putting schema changes in the {{{support/<version>updates-schema.sql}}} file, you also need to be sure to put them in 'support/mysqlSchema.sql' file so that they get applied to new installs also.
 
  P.S. Changing the 'labGroup' values impacts at least the following files:
 
