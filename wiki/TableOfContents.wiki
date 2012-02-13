@@ -2,8 +2,10 @@
 #labels Category-TOC
 
   * [WikiFrontpage Front page]
-  * [HowTo How To Articles]
-    * [IssueTrackingHowTo Issue Tracking Guide]
+  * [HowTo How To Guides]
+    * For Developers
+      * [ChangeDatabaseStructure How to change database structure?]
+    * For end users
   * [BackgroundInfo Background Information]
     * [AboutUs About Us]
     * [WebSites iSante Demo and Dev sites]
