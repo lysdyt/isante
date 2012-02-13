@@ -6,6 +6,7 @@
     * For Developers
       * [MaintainLookupTables How to maintain lookup tables?]
     * For end users
+      * [UserDocumentation User Guides]
   * [BackgroundInfo Background Information]
     * [AboutUs About Us]
     * [WebSites iSante Demo and Dev sites]
