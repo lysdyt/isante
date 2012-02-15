@@ -1,0 +1,12 @@
+#summary Description of the database architecture of iSante.
+
+= Introduction =
+
+iSante has been built in a few step.
+  * The first one was where the application basically relied on one very big table, much like an excel sheet.
+  * The second one was related to normalization that made the architecture more rational
+  * the third one consists in bringing iSante closer to the openMRS http://openmrs.org/ concept model.
+
+= Details =
+
+http://code.google.com/images/code_sm.png
