@@ -5,6 +5,7 @@
   * [HowTo How To Guides]
     * For Developers
       * [MaintainLookupTables How to maintain lookup tables?]
+      * [DatabaseSchema Database Schema]
     * For end users
       * [UserDocumentation User Guides]
   * [BackgroundInfo Background Information]
