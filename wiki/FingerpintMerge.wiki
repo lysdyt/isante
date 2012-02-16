@@ -1,6 +1,8 @@
 #summary Notes about the fingerprint merger process between local and national databases.
 #labels Phase-Deploy
 
+<wiki:toc max_depth="1" />
+
 = Introduction =
 
 Patients are always assigned a local site identifier (patientID) when initially registered. This identifier is also the ID associated with their fingerprints in the local fingerprint database and the ID that is transmitted to the national fingerprint database. For national synchronization purposes, a patient’s first local identifer becomes her master patient identifier (masterPID). The national fingerprint server (administered by UGP in Port-au-Prince) stores and supplies this master identifier to additional sites the patient may visit. Local identifiers are associated with master identifiers whenever a local fingerprint database is synchronized with the national fingerprint database. Frequency of synchronization is proposed to be daily or weekly, depending upon ongoing experience with the volume of transactions and the speed of synchronization processing.
@@ -23,7 +25,7 @@ The goal is to setup a task that will merge the local fingerprint database with 
     # Verify the installation:
         ## Execute "hybrid_datamerger.cmd"
         ## Consult the hybrid_datamerger.log to see if the transaction worked or curlErrorFile.htm if it exists to debug
-		## The uploaded DuplicateTemplateFound.log should be found in to iSanteMergers_done folder with today's date
+	## The uploaded DuplicateTemplateFound.log should be found in to iSanteMergers_done folder with today's date
     # Set up a Scheduled task in Windows that will execute C:\Program Files\BioPlugin\fpmerge\hybrid_datamerger.cmd daily.
 
 
@@ -46,3 +48,44 @@ MergedRecords.txt: file created by the hybrid_datamerger.exe (not used in our pr
 Everything should run without any additional setup.
 The batch file that runs mergeFingerprintDate() is ~/patientStatusBatch.php
 You can verify that the merger process works by monitoring the various logs created by the mergeFingerprintDate() function.
+
+= Logs =
+
+== Folders ==
+/var/backups/itech/fpDuplicateLogs/
+(accessible by php server because it is owned by www-data)
+
+== 1) a log of the execution in /var/log/itech/ ==
+
+Done via the ~/batch-jobs.php file
+
+== 2) log of event in table eventLog in database ==
+
+a record is added to the table eventLog in the database on completion of the process with function recordEvent().
+
+== 3) Archives ==
+
+/var/backups/itech/fpDuplicateLogs/processed
+the file ~/config-linux/scripts/110var.sh has been updated accordingly with the following lines:
+#this directory holds fingerprint duplicates data
+mkdir -p /var/backups/itech/fpDuplicateLogs/processed
+chown -R itech:www-data /var/backups/itech/fpDuplicateLogs
+chmod -R 771 /var/backups/itech/fpDuplicateLogs
+
+= Steps executed daily =
+
+   # Scheduled task C:\Program Files\BioPlugin\fpmerge\hybrid_datamerger.cmd on local windows computer hosting fingerprint database.
+      # :: hybrid_datamerger.exe FP1 Merges Local Fingerprint Database with distant Fingerprint Database defined in hybrid_datamerger.ini
+      # It imports the DuplicateTemplateFound.log file to the current folder
+      # DuplicateTemplateFound.log is copied to the iSanteMergers_todo folder and renamed with today’s date iSanteMergers_todo.
+      # For each DuplicateTemplateFound.log in iSanteMergers_todo, executes curlSendFile.cmd that uploads the file and calls the iSante server side merging function.
+      # exits
+   # The cURL script uploads a DuplicateTemplateFound.log with today’s date (eg DuplicateTemplateFound-20120120.log) and calls ~/upload.php. Function mergeFingerprintData(‘NameOfTheFile.log’); from ~/backend/materializedViews.php is executed.
+      # It output the received data from the cURL script to /var/backups/itech/fpDuplicateLogs/NameOfTheFile.log (eg /var/backups/itech/fpDuplicateLogs/DuplicateTemplateFound-20120120.log)
+      # It opens the ‘NameOfTheFile.log’ file if it exists
+      # For each duplicate
+          # it updates masterID in patient
+          # it updates lstModified in encounter
+          # it applies changeFingerprintID()
+          # it moves the NameOfTheFile.log file to /var/backups/itech/fpDuplicateLogs/processed folder and adds the day of processing (example: DuplicateTemplateFound-20120120.log)
+      # It adds an event in table eventLog and saves the duplicateIDs with function recordEvent()
