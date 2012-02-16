@@ -1,0 +1,48 @@
+#summary Notes about the fingerprint merger process between local and national databases.
+#labels Phase-Deploy
+
+= Introduction =
+
+Patients are always assigned a local site identifier (patientID) when initially registered. This identifier is also the ID associated with their fingerprints in the local fingerprint database and the ID that is transmitted to the national fingerprint database. For national synchronization purposes, a patient’s first local identifer becomes her master patient identifier (masterPID). The national fingerprint server (administered by UGP in Port-au-Prince) stores and supplies this master identifier to additional sites the patient may visit. Local identifiers are associated with master identifiers whenever a local fingerprint database is synchronized with the national fingerprint database. Frequency of synchronization is proposed to be daily or weekly, depending upon ongoing experience with the volume of transactions and the speed of synchronization processing.
+
+https://sites.google.com/site/haitioejan2012/home/jeremie.jpg
+
+= Setup =
+
+== 1. Windows Side ==
+
+The goal is to setup a task that will merge the local fingerprint database with the national consolidate one, retrieve the duplicate fingerprint entries and upload that list to the iSanté server for deduplication.
+
+    # copy the fpmerge folder and its content from ~/support/fpmerge in the iSanté code to C:\Program Files\BioPlugin\fpmerge
+    # Replace the existing curl.exe with the appropriate one for your operating system (http://curl.haxx.se/download.html)
+    # Update the "hybrid_datamerger.ini" file according to your requirement. It contains PORT and IP of Destination BioPlugin Server. It also links to your local Database.
+        ## PORT: Port of the destination BioPlugin Server
+        ## IP: IP of the destination BioPlugin Server
+        ## ConnectStr: ODBC Connection to the source (local) BioPlugin Database
+    # Update the "hybrid_datamerger.cmd" file with your login information to the iSanté Server (lines 20-22)
+    # Verify the installation:
+        ## Execute "hybrid_datamerger.cmd"
+        ## Consult the hybrid_datamerger.log to see if the transaction worked or curlErrorFile.htm if it exists to debug
+		## The uploaded DuplicateTemplateFound.log should be found in to iSanteMergers_done folder with today's date
+    # Set up a Scheduled task in Windows that will execute C:\Program Files\BioPlugin\fpmerge\hybrid_datamerger.cmd daily.
+
+
+IMPORTANT >>> In destination machine, BioPlugin Server needs to RUN. Otherwise it won't be work.
+
+--- Files in this folder ---
+Read Me First.txt: documentation
+curlSendFile.cmd: secondary executable that uploads a file to the serveur via HTTP with cURL and calls the iSante side merging process
+hybrid_datamerger.cmd: main executable file that starts the fingerprint database merge process with hybrid_datamerger.exe and then calls curlSendFile.cmd for every DuplicateTemplateFound.log in the iSanteMergers_todo folder
+hybrid_datamerger.exe: executable file created by M2Sys that merges the local database with a destination database. It uses the hybrid_datamerger.ini file for its configuration.
+hybrid_datamerger.ini: configuration file for hybrid_datamerger.exe.
+hybrid_datamerger.log: log of the previous executions of hybrid_datamerger.cmd
+dataMerge.txt: file created by the hybrid_datamerger.exe (not used in our process)
+DuplicateIDFound.txt: file created by the hybrid_datamerger.exe (not used in our process)
+MergedRecords.txt: file created by the hybrid_datamerger.exe (not used in our process)
+
+
+== 2. iSanté Side ==
+
+Everything should run without any additional setup.
+The batch file that runs mergeFingerprintDate() is ~/patientStatusBatch.php
+You can verify that the merger process works by monitoring the various logs created by the mergeFingerprintDate() function.
