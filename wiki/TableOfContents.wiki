@@ -4,9 +4,10 @@
   * [WikiFrontpage Front page]
   * [HowTo How To Guides]
     * For Developers
-      * [MaintainLookupTables How to maintain lookup tables?]
       * [DatabaseSchema Database Schema]
       * [FingerpintMerge Fingerprint merger process]
+      * [MaintainLookupTables How to maintain lookup tables?]
+      * [PregnancyStatus How to determine if patient is pregnant?]
     * For end users
       * [UserDocumentation User Guides]
   * [BackgroundInfo Background Information]
