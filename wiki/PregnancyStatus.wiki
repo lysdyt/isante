@@ -4,9 +4,9 @@
 
 To determine pregnancy status, we currently have a very complex algorithm that we use to determine the status of a patient at any given point in time.  The attached file contains a description of the steps involved.  The actual code is in the file 'backend/sharedRptFunctions.php' and includes the functions:
 
-fillLmpTable
-fillPregnancyTable
-comparePregnancyTables
+* fillLmpTable
+* fillPregnancyTable
+* comparePregnancyTables
 
 
 = Algorithm =
