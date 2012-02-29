@@ -8,6 +8,8 @@
       * [FingerpintMerge Fingerprint merger process]
       * [MaintainLookupTables How to maintain lookup tables?]
       * [PregnancyStatus How to determine if patient is pregnant?]
+    * For system administrators
+      * [FingerprintMerge The fingerprint merge process]
     * For end users
       * [UserDocumentation User Guides]
   * [BackgroundInfo Background Information]
