@@ -3,6 +3,7 @@
 You will set up a task to merge the local fingerprint database with the national consolidated database, retrieve any duplicate fingerprint entries that may exist, and upload that list to the local iSanté server to aid with patient de-duplication.
 
 HOW TO SETUP
+{{{
 1. Copy the ~/support/fpmerge folder and its contents from ~/support/fpmerge on the local  iSanté server to C:\Program Files\BioPlugin\fpmerge on the local Windows fingerprint server.
 2. Replace the curl.exe file in C:\Program Files\BioPlugin\fpmerge with the appropriate one for your operating system (http://curl.haxx.se/download.html)
 3. Update the "hybrid_datamerger.ini" file to correspond to your local configuration. It contains PORT and IP of the destination national BioPlugin Server and the connect string for your local fingerprint database:
@@ -17,6 +18,7 @@ HOW TO SETUP
 6.   Set up a scheduled task in Windows that will execute:
 C:\Program Files\BioPlugin\fpmerge\hybrid_datamerger.cmd 
 daily.
+}}}
 
 IMPORTANT >>> the BioPlugin Server on the national fingerprint server must be running. Otherwise the process will not work.
 
