@@ -32,10 +32,17 @@ C:\Program Files\BioPlugin\fpmerge\hybrid_datamerger.cmd
 daily.
 
 
+
+
 IMPORTANT >>> the BioPlugin Server on the national fingerprint server must be running. Otherwise the process will not work.
 
 
+
+
+
 --- Files in the ~/support/fpmerge folder ---
+
+
 
 - Read Me First.txt: documentation
 
