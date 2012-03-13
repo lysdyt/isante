@@ -1,0 +1,12 @@
+#summary Versionning Guidelines.
+
+= Introduction =
+
+Version numbers will be composed of two period separated, non padded, integers. The first integer will be equal to the year the release is being made in minus 2000. The second integer will be the sequence of the release within the year starting at one. This is loosely based on the version number scheme used by Ubuntu Linux. The release sequence number will only be increased if new features have been added. Bug fix only releases will not increment this value. 
+
+An optional third component of the version number describes precisely where in the version control system the release was derived from. For projects tracked with SVN this would be the "Last Changed Rev:" returned by `svn info`. For projects tracked with git this would be the tag sequence number returned by `git describe`. This third component would be displayed only in appropriate contexts such as when a user with administrative privileges accesses the system. The suggested format of this component would be the value enclosed in parenthesis. The format may be adjusted as needed when used in file names and system packages.
+
+= User view =
+
+
+= Administrator view =
