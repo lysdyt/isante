@@ -10,6 +10,7 @@
       * [PregnancyStatus How to determine if patient is pregnant?]
     * For system administrators
       * [FingerprintMerge The fingerprint merge process]
+      * [VersionningGuidelines Versionning guidelines]
     * For end users
       * [UserDocumentation User Guides]
   * [BackgroundInfo Background Information]
