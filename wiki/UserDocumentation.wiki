@@ -1,6 +1,10 @@
 #summary iSante User documentation
 #labels Category-Documentation
 
+==Version 9.0 RC3:==
+    * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocument9rc3en.pdf Change document in English]
+    * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocument9rc3fr.pdf Change document in French]
+
 ==Version 9.0 RC2:==
     * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocument9rc2en.pdf Change document in English]
     * [http://code.google.com/p/isante/downloads/detail?name=ChangeDocument9rc2fr.pdf Change document in French]
