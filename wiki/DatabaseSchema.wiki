@@ -2,10 +2,10 @@
 
 = Introduction =
 
-iSante has been built in a few step.
+The iSanté database schema has evolved through three stages:
   * Initially, the database consisted of a large number of de-normalized tables roughly corresponding to the forms and sections of forms required by the application.
-  * The second one was related to normalization that made the architecture more rational
-  * the third one consists in bringing iSante closer to the openMRS http://openmrs.org/ concept model.
+  * The second stage normalized specific concepts (conditions, drugs, symptoms, and labs, etc.) into corresponding tables.
+  * the third stage consisted of bringing iSante closer to the openMRS http://openmrs.org/ concept model, which consists basically of observations stored in one large concept-value pairs table.
 
 = Details =
 
