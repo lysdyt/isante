@@ -32,7 +32,7 @@ In other words, it should be really easy to find the build number.
 
 For development and testing versions the following should be used.
 
-Version.PlannedRelease.UnplannedRelease \<type\> (build number)
+Version.PlannedRelease.UnplannedRelease type (build number)
 
 Version is the version we’re currently working towards – the next version on the release plan (even for bug fixes).
 
