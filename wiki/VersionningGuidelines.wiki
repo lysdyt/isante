@@ -9,8 +9,7 @@ Steve is the release planner for iSanté (continuing in that role).
 The release planner will keep a document (Steve already does this) with future planned releases, and issues not currently scheduled for a release.  Jan coordinates these and has overall responsibility for release planning.
 
 
-Version numbers will have the following format
-=======================================
+= Version numbers format =
 
 The version number is a string, not a number.  Its format will be:  Version.PlannedRelease.UnplannedRelease (build number)
 The format may be adjusted as needed when used in file names and system packages. 
@@ -29,12 +28,11 @@ b.      Visible w/ mouse-over of the version number.
 In other words, it should be really easy to find the build number.
 
 
-How to treat Development/Testing versions:
-==============================
+= Development/Testing Versions =
 
 For development and testing versions the following should be used.
 
-Version.PlannedRelease.UnplannedRelease <type> (build number)
+Version.PlannedRelease.UnplannedRelease \<type\> (build number)
 
 Version is the version we’re currently working towards – the next version on the release plan (even for bug fixes).
 
