@@ -11,7 +11,7 @@ The release planner will keep a document (Steve already does this) with future p
 
 = Version numbers format =
 
-The version number is a string, not a number.  Its format will be:  !Version.!PlannedRelease.!UnplannedRelease (build number)
+The version number is a string, not a number.  Its format will be:  Version.!PlannedRelease.!UnplannedRelease (build number)
 The format may be adjusted as needed when used in file names and system packages. 
 
 1)      Each of the dot-separated components is an integer.
