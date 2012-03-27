@@ -1,4 +1,4 @@
-#summary Versionning Guidelines.
+#summary Versioning Guidelines.
 
 = Introduction =
 
