@@ -1,0 +1,51 @@
+#summary Versionning Guidelines.
+
+= Introduction =
+
+Each project will have a release planner.
+
+Steve is the release planner for iSanté (continuing in that role).
+
+The release planner will keep a document (Steve already does this) with future planned releases, and issues not currently scheduled for a release.  Jan coordinates these and has overall responsibility for release planning.
+
+
+= Version numbers format =
+
+The version number is a string, not a number.  Its format will be:  Version.!PlannedRelease.!UnplannedRelease (build number)
+The format may be adjusted as needed when used in file names and system packages. 
+
+1)      Each of the dot-separated components is an integer.
+
+2)      The starting version for iSanté will be “12”. The version number gets incremented yearly.
+
+3)      The next planned release of iSanté will be “1”. We anticipate planned releases quarterly, but it may become more frequent. Planned releases numbers start at 1.
+
+4)      Unplanned releases may occur between planned releases when appropriate (appropriate depends on needs, urgency of the issue, etc.).  They may also include urgently needed or small features. Unplanned releases numbers start at 0 and when it is 0 it is not shown in the version string. 
+
+5)      The build number describes precisely where in the version control system the release was derived from. For projects tracked with SVN this would be the "Last Changed Rev:" returned by `svn info`. For projects tracked with git this would be the tag sequence number returned by `git describe`. The revision number component is optional but it should either be 
+a.      Visible, or
+b.      Visible w/ mouse-over of the version number.
+In other words, it should be really easy to find the build number.
+
+
+= Development/Testing Versions =
+
+For development and testing versions the following should be used.
+
+Version.!PlannedRelease.!UnplannedRelease type (build number)
+
+Version is the version we’re currently working towards – the next version on the release plan (even for bug fixes).
+
+I want to use “type” to convey the intended use of the release.
+
+1)      For external releases, type is blank
+
+2)      For checkouts intended for development, type should be “dev”
+
+3)      For checkout intended primarily for testing, type should be “test”
+
+There’s some crossover between intending a version for dev and for test, but the absolute rule is that only an external release should lack either of those disclaimers. 
+
+= User view =
+
+https://sites.google.com/site/haitioejan2012/home/Screen%20shot%202012-03-13%20at%2012.39.20%20PM.png
