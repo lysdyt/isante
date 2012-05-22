@@ -8,9 +8,9 @@ iSanté specific MySQL functions.
 
 == iSanté specific MySQL functions ==
 
-* ymdToDate
-* isNumeric
-* isDate
+ * ymdToDate
+ * isNumeric
+ * isDate
 
 These functions are located in support/schema-user-functions/
 
