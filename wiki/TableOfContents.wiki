@@ -8,6 +8,7 @@
       * [FingerpintMerge Fingerprint merger process]
       * [MaintainLookupTables How to maintain lookup tables?]
       * [PregnancyStatus How to determine if patient is pregnant?]
+      * [SqlProcess Modifications to MySQL specific to iSanté]
     * For system administrators
       * [FingerprintMerge The fingerprint merge process]
       * [VersioningGuidelines Versioning guidelines]
