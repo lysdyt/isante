@@ -1,0 +1,28 @@
+# Introduction #
+
+iSanté specific MySQL functions.
+
+# Details #
+
+## iSanté specific MySQL functions ##
+
+  * ymdToDate
+  * isNumeric
+  * isDate
+
+These functions are located in support/schema-user-functions/
+
+## Transact SQL to MySQL translation ##
+Due to the history of iSanté (that started with a Microsoft Trasnact SQL Database), there was a need to create a translation tool from Transact SQL to MySQL.
+
+Some legacy code still uses the Transact SQL paradigm (query executed with dbQuery()).
+
+The translator is written in a language called Haskell and implemented as a PHP extension.
+
+There are two files related to this:
+sqlProcess/README.txt
+sqlProcess/index.php
+
+The first file has a summary of all the kinds of things that the translator does to input SQL statements. The second is a file you can access in your web browser that let's you manually translate any given SQL statement.
+
+When you look in the application code some queries get processed through the translator and some do not. If the query is executed by database()->query() or any other method of database() it is not being translated. If a query executed by dbQuery() it is being translated.

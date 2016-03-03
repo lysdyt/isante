@@ -1,0 +1,8 @@
+See https://docs.google.com/document/d/1dmRdqKxbPaQsDRNgkuSMUVA8GtISjBoTX8GrF-2yT1E/edit
+
+(content moved there)
+
+
+# User view #
+
+![https://sites.google.com/site/haitioejan2012/home/Screen%20shot%202012-03-13%20at%2012.39.20%20PM.png](https://sites.google.com/site/haitioejan2012/home/Screen%20shot%202012-03-13%20at%2012.39.20%20PM.png)

@@ -1,0 +1,5 @@
+The University of Washington team uses an agile development methodology for developing and releasing OpenELIS Global.  We use Pivotal Tracker to track our development stories and progress.  Our pivotal tracker project is publicly viewable, but can only be modified if you join the project.
+
+https://www.pivotaltracker.com/projects/316811
+
+NOTE:  There are other teams beginning work for their implementation of OpenELIS Global using a specific branch of code from the SVN repository, which will utilize an open source project process that includes peer code review to merge into global repository, but are not being tracked in the pivotal tracker project.

@@ -1,0 +1,11 @@
+# Details #
+
+  * Modified menu structure
+  * Patient quick search in the menu bar
+  * Patient header and coversheet
+  * Patient tabs for lab, diagnosis, and medication history
+  * Immediate feedback (client-side) validation.
+  * Bug/Error Reporting
+  * Pre-ARV and ARV Registry
+  * New reports
+  * See Help -> New in Version 6.0 for details on changes

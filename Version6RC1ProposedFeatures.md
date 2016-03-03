@@ -1,0 +1,28 @@
+# Details #
+
+  * New UI
+    * Changed navigation and menu structure
+    * Revised patient search, with a quick search in the top menu
+    * Patient header
+    * Selected patient tabs
+    * Coversheet - (mimics a subset of data in the clinical summary: vitals, recent visits, etc.)
+      * Lab, diagnosis, and medication history grid displays
+      * Graphs for cd4/weight in the coversheet
+      * Revised computation of ARV eligibility, date and type
+    * Immediate feedback (client-side) validation.
+  * Registry
+    * ARV
+    * Pre-ARV
+  * New/modified Reports
+    * Consolidated report
+      * Breaks out palliative care & ART for all patient statuses (including inactive and discontinued patients)
+      * Shows each site's release version.
+      * Data now appears in a sortable grid.
+    * Medication-related
+      * Appropriate cotrimoxizole therapy among those at risk.
+      * Regimens and drug discontinuations
+      * Patients on 1st and 2nd line regimens
+      * Patients with one drug substitution on the same regimen line
+      * Patients with more than one drug substitution on the same regimen line, or a new regimen line
+      * Discontinued drugs
+    * ARV/TMS reason for eligibility--corrections and improvements to queries implementing the eligibility definitions
